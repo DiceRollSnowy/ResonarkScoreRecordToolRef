@@ -1,1 +1,3 @@
-# ResonarkScoreRecordToolRef
+﻿# ResonarkScoreRecordToolRef
+
+ResonarkScoreRecordToolから参照するファイルのリポジトリです。
