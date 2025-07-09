@@ -1,5 +1,5 @@
 {
     "MusicVersion": "4.1.8", 
     "MusicVersion_Date": "2025/06/23", 
-    "ForceMusicListUpdate": false 
+    "ForceMusicListUpdate": true 
 }
